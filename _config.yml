@@ -19,8 +19,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   Learning how EMO works via reverse engineering and other techniques.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: 0xD34D
-github_username:  0xD34D
+twitter_username: "0xD34D"
+github_username:  "0xD34D"
 
 # Build settings
 markdown: kramdown

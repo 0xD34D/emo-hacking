@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Welcome to Jekyll!"
-author: "0xd34d"
 date:   2023-01-26 10:29:18 -0800
 categories: jekyll update
 tags: jekyll update

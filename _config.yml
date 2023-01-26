@@ -22,14 +22,15 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: "0xD34D"
 github_username:  "0xD34D"
 
+
 # Build settings
 markdown: kramdown
+theme: jekyll-theme-hacker
 remote_theme: pages-themes/hacker@v0.2.0
+
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
-
-#plugins:
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

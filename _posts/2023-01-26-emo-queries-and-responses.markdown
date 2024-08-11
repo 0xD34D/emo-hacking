@@ -20,7 +20,7 @@ Two possibilities came to mind.  EMO has both bluetooth and WiFi capabilities so
 The obvious choice to accomplish capturing packets from EMO was to use my laptop's WiFi adapter as a hotspot that would share internet via the ethernet port.  Once the WiFi hostpot was setup I used the EMO app on Android to connect EMO to the hotspot.
 
 With everything setup it was time to power down EMO, fire up Wireshark, and power EMO back up.  In less than a minute traffic starting filtering through Wireshark.  Woo-Hoo!  Hold up, let's not get too excited yet.  Look at those packets :bowtie:
-![screenshot of wireshark showing captured packets](/assets/wireshark_capture_emo_packets.png)
+![screenshot of wireshark showing captured packets]({{ site.baseurl }}/assets/wireshark_capture_emo_packets.png)
 The bad news is the packets are encrypted using TLSv1.2, the good news is the packets are encrypted using TLSv1.2.
 
 <br>

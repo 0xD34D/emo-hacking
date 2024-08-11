@@ -14,14 +14,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: emo hacking
-email: 0xd34d@scheffsblend.com
+email: clark@scheffsblend.com
 description: >- # this means to ignore newlines until "baseurl:"
   Learning how EMO works via reverse engineering and other techniques.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: "0xD34D"
-github_username:  "0xD34D"
-
+github_username: "0xD34D"
 
 # Build settings
 markdown: kramdown
@@ -31,7 +30,7 @@ markdown: kramdown
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
-
+  - jemoji
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.

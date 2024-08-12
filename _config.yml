@@ -24,6 +24,7 @@ github_username: "0xD34D"
 
 # Build settings
 markdown: kramdown
+remote_theme: pages-themes/hacker@v0.2.0
 #theme: jekyll-theme-minima
 #remote_theme: pages-themes/minima
 

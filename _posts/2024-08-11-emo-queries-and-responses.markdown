@@ -2,7 +2,7 @@
 layout: post
 title:  "EMO's smarts are in the cloud!"
 author: "0xd34d"
-date:   2023-01-26 14:00:18 -0800
+date:   2024-08-11 14:00:00 -0800
 categories: emo hacking
 tags: emo hacking
 ---
@@ -25,6 +25,7 @@ The bad news is the packets are encrypted using TLSv1.2, the good news is the pa
 
 <br>
 ### bringing in the middle man
+![screenshot of mitmproxy showing captured packets]({{ site.baseurl }}/assets/inspecting_packets_with_mitmproxy.png)
 
 Request:
 ```
